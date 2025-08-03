@@ -1,4 +1,4 @@
-package com.examenT1.demo.Entity;
+package com.DAWI_T1_JOYA_VLADIMIR.demo.Entity;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
@@ -9,13 +9,12 @@ import lombok.NoArgsConstructor;
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
-@Table(name = "matricula")
-public class Matricula {
+@Table(name = "curso")
+public class Curso {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
-    @ManyToOne
-    private Alumno alumno;
-    @ManyToOne
-    private Curso curso;
+    private String nombre;
+    private int creditos;
+
 }

@@ -1,7 +1,7 @@
-package com.examenT1.demo.Service;
+package com.DAWI_T1_JOYA_VLADIMIR.demo.Service;
 
-import com.examenT1.demo.Entity.Curso;
-import com.examenT1.demo.Repositorio.CursoRepositorio;
+import com.DAWI_T1_JOYA_VLADIMIR.demo.Entity.Curso;
+import com.DAWI_T1_JOYA_VLADIMIR.demo.Repositorio.CursoRepositorio;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

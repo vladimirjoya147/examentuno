@@ -1,4 +1,4 @@
-package com.examenT1.demo;
+package com.DAWI_T1_JOYA_VLADIMIR.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

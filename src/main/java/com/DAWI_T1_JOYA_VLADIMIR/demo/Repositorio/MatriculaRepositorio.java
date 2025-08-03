@@ -1,7 +1,7 @@
-package com.examenT1.demo.Repositorio;
+package com.DAWI_T1_JOYA_VLADIMIR.demo.Repositorio;
 
-import com.examenT1.demo.Entity.Matricula;
-import com.examenT1.demo.Model.MatriculaModel;
+import com.DAWI_T1_JOYA_VLADIMIR.demo.Entity.Matricula;
+import com.DAWI_T1_JOYA_VLADIMIR.demo.Model.MatriculaModel;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;

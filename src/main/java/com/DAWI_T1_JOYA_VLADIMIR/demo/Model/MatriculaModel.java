@@ -1,4 +1,4 @@
-package com.examenT1.demo.Model;
+package com.DAWI_T1_JOYA_VLADIMIR.demo.Model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

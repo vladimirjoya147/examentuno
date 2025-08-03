@@ -1,6 +1,6 @@
-package com.examenT1.demo.Repositorio;
+package com.DAWI_T1_JOYA_VLADIMIR.demo.Repositorio;
 
-import com.examenT1.demo.Entity.Curso;
+import com.DAWI_T1_JOYA_VLADIMIR.demo.Entity.Curso;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

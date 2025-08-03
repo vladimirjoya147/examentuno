@@ -1,6 +1,6 @@
-package com.examenT1.demo.Service;
+package com.DAWI_T1_JOYA_VLADIMIR.demo.Service;
 
-import com.examenT1.demo.Entity.Curso;
+import com.DAWI_T1_JOYA_VLADIMIR.demo.Entity.Curso;
 
 import java.util.List;
 

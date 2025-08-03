@@ -1,8 +1,7 @@
-package com.examenT1.demo.Service;
+package com.DAWI_T1_JOYA_VLADIMIR.demo.Service;
 
-import com.examenT1.demo.Entity.Matricula;
-import com.examenT1.demo.Model.MatriculaModel;
-import com.examenT1.demo.Repositorio.MatriculaRepositorio;
+import com.DAWI_T1_JOYA_VLADIMIR.demo.Repositorio.MatriculaRepositorio;
+import com.DAWI_T1_JOYA_VLADIMIR.demo.Model.MatriculaModel;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

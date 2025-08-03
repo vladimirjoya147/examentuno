@@ -1,6 +1,6 @@
-package com.examenT1.demo.Repositorio;
+package com.DAWI_T1_JOYA_VLADIMIR.demo.Repositorio;
 
-import com.examenT1.demo.Entity.Alumno;
+import com.DAWI_T1_JOYA_VLADIMIR.demo.Entity.Alumno;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface AlumnoRepositorio extends JpaRepository<Alumno, Long> {
