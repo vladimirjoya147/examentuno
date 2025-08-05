@@ -1,10 +1,10 @@
 package com.DAWI_T1_JOYA_VLADIMIR.demo.Service;
 
-import com.DAWI_T1_JOYA_VLADIMIR.demo.Model.MatriculaModel;
+import com.DAWI_T1_JOYA_VLADIMIR.demo.Entity.Matricula;
 
 import java.util.List;
 
 public interface MatriculaService {
 
-    public List<MatriculaModel> listarMatriculas(String email);
+    public List<Matricula> listarMatriculas(String email);
  }
